@@ -6,7 +6,7 @@ Frontend Engineer | Angular Developer | Building Modern Web Applications
 
 💼 Software Engineer @ HCLTech
 
-🅰️ 5+ years of experience in Angular development
+🅰️ 6 years of experience in Angular development
 
 ⚡ Passionate about building scalable, enterprise-grade applications
 
